@@ -1,0 +1,4 @@
+exclude: ["blog/_site", "blog/Gemfile", "blog/Gemfile.lock"]
+source: .
+destination: ./_site
+layouts_dir: blog/_layouts

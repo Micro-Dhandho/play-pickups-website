@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="post-section">
+  <div class="post-grid">
+    {% for post in site.posts %}
+      <div class="post">
+        <div class="image" style="background-image: url({{ post.background-image }})"></div>
+        <div class="content">
+          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt }}</p>
+          <div class="date">{{ post.date | date: "%B %-d, %Y" }}</div>
+          <div class="categories">
+            {% for category in post.categories %}
+              <a href="/blog/tags/{{ tag | slugify }}">{{ category }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
