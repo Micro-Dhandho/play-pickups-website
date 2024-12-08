@@ -3,7 +3,7 @@ email: contact@playpickups.app
 description: >- 
   Write an awesome description for your new site here.
 baseurl: "/blog"
-url: "https://kaxevgg.github.io"
+url: "https://playpickups.app"
 permalink: /:categories/:title/
 
 # Important: Specify layouts directory
