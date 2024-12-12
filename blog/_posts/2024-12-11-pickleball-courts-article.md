@@ -6,8 +6,6 @@ categories: Pickleball
 background-image: 'https://media.istockphoto.com/id/1461641993/photo/rackets-and-balls-for-playing-pickleball-at-the-sports-net-on-the-court-3d-rendering.jpg?s=612x612&w=0&k=20&c=qXsblHqf6ZZePdnz2g2MYKQYGLiWBnpMkPukRBa5Ihk='
 ---
 
-# The Rise of Pickleball: A Court-by-Court Guide to the Sport's Growing Arena
-
 Walking onto a pickleball court for the first time can be an interesting experience. At first glance, it might look like you've stumbled onto a miniature tennis court, but don't let that fool you. These courts, which have been popping up everywhere from community centers to luxury resorts, are specifically designed for one of America's fastest-growing sports.
 
 ## The Anatomy of a Pickleball Court

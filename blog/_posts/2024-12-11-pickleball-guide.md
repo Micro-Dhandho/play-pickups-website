@@ -6,8 +6,6 @@ categories: Pickleball
 background-image: 'https://i.ytimg.com/vi/rD1O3R9B0Sw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAIw_inNSTezUJf5N1KzGdBKxl-1w'
 ---
 
-# How to Play Pickleball: From First Serve to Tournament Ready
-
 The first time I watched a pickleball game, I was amazed by the mix of strategy, skill, and pure joy on display. This unique sport, which combines elements of tennis, badminton, and table tennis, has captured the hearts of millions. Whether you're picking up a paddle for the first time or looking to refine your game, this guide will walk you through everything you need to know.
 
 ## The Basics: Setting Up the Game
