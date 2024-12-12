@@ -6,8 +6,6 @@ categories: Pickleball
 background-image: 'https://bakadesuyo.com/wp-content/uploads/2017/02/how-to-make-friends-as-an-adult.jpg'
 ---
 
-## Starting Fresh: A Guide to Meeting People in Your New City
-
 Moving to a new city as an adult feels a bit like being the new kid in school – except there's no classroom full of potential friends waiting to meet you. I've been there, and I know that initial feeling of isolation can be overwhelming. But here's the good news: cities are filled with people just like you, looking to make meaningful connections. Let me share what I've learned about building a social circle from scratch in today's interconnected world.
 
 ## Understanding the Modern Social Landscape
