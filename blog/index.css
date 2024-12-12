@@ -81,6 +81,15 @@ section.blog {
     width: 90%;
 }
 
+.blog button.back {
+    color: black;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
 .blog .content {
     display: flex;
     flex-direction: column;
