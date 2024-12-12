@@ -90,6 +90,14 @@ section.blog {
     margin-bottom: 0.5rem;
 }
 
+.blog .image {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
 .blog .content {
     display: flex;
     flex-direction: column;
