@@ -105,10 +105,10 @@ section.blog {
 }
 
 .blog p {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 400;
     margin-top: 1rem;
-    line-height: 1.2;
+    line-height: 1.6;
 }
 
 .blog p.date {
